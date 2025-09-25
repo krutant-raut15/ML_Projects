@@ -1,3 +1,10 @@
+# Ignore these CSV files
+tmdb_5000_credits.csv
+tmdb_5000_movies.csv
+movies_csv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
